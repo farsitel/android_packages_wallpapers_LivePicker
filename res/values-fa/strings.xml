@@ -21,23 +21,23 @@
     <!-- General -->
     <skip />
     <!-- Application name -->
-    <string name="application_name">انتخاب کنندهٔ کاغذ دیواری زنده</string>
+    <string name="application_name">انتخاب‌کنندهٔ کاغذ دیواری متحرک</string>
     <!-- Title for the screen that lets the user choose a live wallpaper to use
          for the system. -->
-    <string name="live_wallpaper_picker_title">کاغذ دیواری‌های زنده</string>
+    <string name="live_wallpaper_picker_title">کاغذ دیواری‌های متحرک</string>
     <!-- Title for the screen that lets the user preview a live wallpaper. -->
-    <string name="live_wallpaper_preview_title">پیش‌نمایش کاغذ دیواری زنده</string>
+    <string name="live_wallpaper_preview_title">پیش‌نمایش کاغذ دیواری متحرک</string>
     <!-- List item for configuring the current wallpaper -->
-    <string name="configure_wallpaper">تنظیمات…</string>
+    <string name="configure_wallpaper">تنظیمات\u2026</string>
     <!-- Button label on Wallpaper Gallery screen; user selects this button to set a specific wallpaper -->
-    <string name="wallpaper_instructions">انتخاب کاغذ دیواری</string>
+    <string name="wallpaper_instructions">تنظیم کاغذ دیواری</string>
     <!-- Warning message, no live wallpapers available. -->
-    <string name="live_wallpaper_empty">هیچ کاغذ دیواری زنده‌ای وجود ندارد.</string>
+    <string name="live_wallpaper_empty">کاغذ دیواری متحرک ندارید.</string>
     <!-- Button label, action, sets the currently selected wallpaper. -->
-    <string name="set_live_wallpaper">انتخاب کاغذ دیواری</string>
+    <string name="set_live_wallpaper">همین خوب است.</string>
     <!-- Label, title and author of the live wallpaper -->
-    <string name="wallpaper_title_and_author"><xliff:g id="title" example="Galaxy">%1$s</xliff:g> از <xliff:g id="author" example="Google">%2$s</xliff:g></string>
+    <string name="wallpaper_title_and_author"><xliff:g id="title" example="Galaxy">%1$s</xliff:g> by <xliff:g id="author" example="Google">%2$s</xliff:g></string>
     <!-- Message, tells the user the selected live wallpaper is loading. -->
-    <string name="live_wallpaper_loading">در حال بار کردن کاغذ دیواری زنده…</string>
+    <string name="live_wallpaper_loading">آماده‌سازی کاغذ دیواری‌های متحرک\u2026</string>
 
 </resources>
